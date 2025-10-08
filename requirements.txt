@@ -1,5 +1,6 @@
-snowflake-snowpark-python
-streamlit
+dependencies:
+  - snowflake-snowpark-python
+  - streamlit
 name: VZCWHJRIJXF1OLSP
 database: SMOOTHIES
 schema: PUBLIC
