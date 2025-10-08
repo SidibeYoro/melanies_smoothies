@@ -1,12 +1,4 @@
 #requirements.txt
 snowflake-snowpark-python
 streamlit
-name: VZCWHJRIJXF1OLSP
-database: SMOOTHIES
-schema: PUBLIC
-main_file: streamlit_app.py
-root_location: 
-query_warehouse: COMPUTE_WH
-owner: SYSADMIN
-comment: {"lastUpdatedUser":"1102410769994","lastUpdatedTime":1759912297997}
-title: Custom Smoothie Order From
+
